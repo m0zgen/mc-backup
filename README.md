@@ -11,6 +11,6 @@ Usage example for `crontab`:
 ```
 
 Description:
-* /path/mc-backup/mc-backup.sh - script
-* /path/backup - backup source
-* oss/backup-folder - backup cloud storage destination
+* `/path/mc-backup/mc-backup.sh` - script
+* `/path/backup` - backup source
+* `oss/backup-folder` - backup cloud storage destination
